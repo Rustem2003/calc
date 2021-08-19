@@ -1,7 +1,7 @@
 <?php
 
    
-    require_once 'config/connect.php';
+    require_once 'connect.php';
 
    
     $product_id = $_GET['id'];
